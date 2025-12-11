@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0001-two-sum) |
+| [0321-create-maximum-number](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0321-create-maximum-number) |
 | [0691-stickers-to-spell-word](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0691-stickers-to-spell-word) |
 | [3819-count-covered-buildings](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3819-count-covered-buildings) |
 ## Hash Table
@@ -49,4 +50,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3819-count-covered-buildings](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3819-count-covered-buildings) |
+## Two Pointers
+|  |
+| ------- |
+| [0321-create-maximum-number](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0321-create-maximum-number) |
+## Stack
+|  |
+| ------- |
+| [0321-create-maximum-number](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0321-create-maximum-number) |
+## Greedy
+|  |
+| ------- |
+| [0321-create-maximum-number](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0321-create-maximum-number) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0321-create-maximum-number](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0321-create-maximum-number) |
 <!---LeetCode Topics End-->
