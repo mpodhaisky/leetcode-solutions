@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0001-two-sum) |
 | [0321-create-maximum-number](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0321-create-maximum-number) |
 | [0330-patching-array](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0330-patching-array) |
+| [0416-partition-equal-subset-sum](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0691-stickers-to-spell-word](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0691-stickers-to-spell-word) |
 | [3819-count-covered-buildings](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3819-count-covered-buildings) |
 ## Hash Table
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0691-stickers-to-spell-word](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0691-stickers-to-spell-word) |
 ## Backtracking
 |  |
