@@ -24,6 +24,7 @@ class Solution:
 
     def canPartition(self, nums: List[int]) -> bool:
         if sum(nums) &1: return False
+        nums.sort()
         dp = [[0,0]]
         for n in nums:
             dp = self.merge(dp,[[a+n,b+n] for a, b in dp])
