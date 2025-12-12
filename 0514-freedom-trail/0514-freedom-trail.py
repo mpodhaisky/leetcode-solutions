@@ -6,13 +6,13 @@ class Solution:
             for j, m in enumerate(ring):
                 adj[(i,m)].append(j)
             
+        dp = [[inf for _ in range(len(key))] + [0 for _ in range(len(key))] for _ in range(len(ring))]
 
-        @cache
-        def dp(i,j):
-            if j >= len(key): return 0
-            res=inf
-            for neigh in adj[(i,key[j])]:
-                dist=min(len(ring)-abs(neigh-i),abs(neigh-i))
-                res=min(res, dist+1+dp(neigh,j+1))
-            return res
-        return dp(0,0)
+        for j in range(len(key)-1,-1,-1):
+            for i in range(len(ring)):
+                for neigh in adj[(i,key[j])]:
+                    dist = min(len(ring)-abs(neigh-i),abs(neigh-i))
+                    dp[i][j]=min(dp[i][j],1+dist+dp[neigh][j+1])
+        return dp[0][0]
+
+        # dp[i][j] ring, key
