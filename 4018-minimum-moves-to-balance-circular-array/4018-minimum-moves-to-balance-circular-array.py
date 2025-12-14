@@ -1,7 +1,6 @@
 class Solution:
     def minMoves(self, balance: List[int]) -> int:
-        pos, neg = sum(n for n in balance if n >0), sum(-n for n in balance if n<0)
-        if neg > pos: return -1
+        if sum(n for n in balance if n >0) < sum(-n for n in balance if n<0): return -1
         res=0
         for i in range(len(balance)):
             if balance[i]>=0: continue
@@ -13,12 +12,7 @@ class Solution:
                     balance[j]-=delta
                     res+=delta*k
                     if not balance[i]:
-                        break
-                else:
-                    continue
-                break
-        return res
-        
-                
+                        return res
+        return 0
 
         
