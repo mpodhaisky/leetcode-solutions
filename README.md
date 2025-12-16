@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [3721-count-mentions-per-user](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3721-count-mentions-per-user) |
 | [3819-count-covered-buildings](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3819-count-covered-buildings) |
+| [3854-maximum-profit-from-trading-stocks-with-discounts](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3854-maximum-profit-from-trading-stocks-with-discounts) |
 | [3934-coupon-code-validator](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3934-coupon-code-validator) |
 | [3986-maximum-path-score-in-a-grid](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3986-maximum-path-score-in-a-grid) |
 ## Hash Table
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0691-stickers-to-spell-word](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0691-stickers-to-spell-word) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
+| [3854-maximum-profit-from-trading-stocks-with-discounts](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3854-maximum-profit-from-trading-stocks-with-discounts) |
 | [3986-maximum-path-score-in-a-grid](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3986-maximum-path-score-in-a-grid) |
 ## Backtracking
 |  |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0514-freedom-trail](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0514-freedom-trail) |
+| [3854-maximum-profit-from-trading-stocks-with-discounts](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3854-maximum-profit-from-trading-stocks-with-discounts) |
 ## Matrix
 |  |
 | ------- |
@@ -124,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0200-number-of-islands) |
+## Tree
+|  |
+| ------- |
+| [3854-maximum-profit-from-trading-stocks-with-discounts](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3854-maximum-profit-from-trading-stocks-with-discounts) |
 <!---LeetCode Topics End-->
