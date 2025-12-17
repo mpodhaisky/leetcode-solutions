@@ -1,11 +1,18 @@
 class Solution:
     def maximumProfit(self, prices: List[int], k: int) -> int:
-        
-        dp=[[0]*(k+1),[-inf]*(k+1),[-inf]*(k+1)]
+        # dp = [[[-inf for _ in range(3)] for _ in range(k+1) ] for _ in range(len(prices))]
 
-        for i in range(len(prices)-1,-1,-1):
-            for a in range(k,-1,-1):
-                dp[2][a] = max(dp[2][a],dp[0][a]-prices[i])
-                dp[1][a] = max(dp[1][a],dp[0][a]+prices[i])
-                dp[0][a]= max(dp[0][a], (max(dp[1][a-1]-prices[i],dp[2][a-1]+prices[i]) if a >=1 else 0))
-        return dp[0][-1]
+        #for i in range(len(prices)-2,-1,-1):
+
+        @cache
+        def dp(i, k, mode):
+            if i == len(prices)-1:
+                return prices[i]*mode
+            res=max(dp(i+1,k,mode),mode*prices[i] + dp(i+1,k-bool(mode),0))
+
+            if k and not mode:
+                res = max(res,prices[i] + dp(i+1,k,-1), -prices[i]+ dp(i+1,k,1))
+            return res
+        res=dp(0,k,0)
+        dp.cache_clear()
+        return res
