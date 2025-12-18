@@ -1,111 +1,92 @@
-from typing import List
-import sys
-
 class Solution:
-    def maxProfit(self, n: int, present: List[int], future: List[int],
-                  hierarchy: List[List[int]], budget: int) -> int:
-        sys.setrecursionlimit(10000)
-        B = budget
-        NEG = -10**18
-        
-        # Build tree (0-based indices)
-        children = [[] for _ in range(n)]
+    def maxProfit(self, n: int, present: List[int], future: List[int], hierarchy: List[List[int]], budget: int) -> int:
+        # Build adjacency list for the tree
+        adj = [[] for _ in range(n)]
         for u, v in hierarchy:
-            children[u - 1].append(v - 1)
+            adj[u - 1].append(v - 1)
+        
+        # Helper to merge two DP arrays: new_dp[i+j] = max(new_dp[i+j], dp1[i] + dp2[j])
+        # This is essentially merging two knapsacks.
+        def merge(dp1, dp2):
+            new_dp = [-float('inf')] * (budget + 1)
+            # Optimization: only iterate through valid states
+            # We collect indices where dp value is not -inf to avoid iterating full range blindly
+            valid_i = [i for i, val in enumerate(dp1) if val != -float('inf')]
+            valid_j = [j for j, val in enumerate(dp2) if val != -float('inf')]
+            
+            for i in valid_i:
+                for j in valid_j:
+                    if i + j <= budget:
+                        if dp1[i] + dp2[j] > new_dp[i + j]:
+                            new_dp[i + j] = dp1[i] + dp2[j]
+            return new_dp
 
-        def dfs(u: int):
-            """
-            Returns two arrays:
-            f0[c] = max profit with cost exactly c in subtree of u,
-                    assuming u's parent does NOT buy (so u has no discount)
-            f1[c] = same, but assuming u's parent DOES buy (so u gets discount)
-            """
-            # Start with children combined DP for two situations:
-            # children0: u not bought  -> children see parent-not-bought (use child's f0)
-            # children1: u bought      -> children see parent-bought     (use child's f1)
-            children0 = [NEG] * (B + 1)
-            children1 = [NEG] * (B + 1)
-            children0[0] = 0
-            children1[0] = 0
+        # DFS function
+        # Returns a tuple: (dp_if_parent_bought, dp_if_parent_skipped)
+        # Each element is a list of size budget+1 where list[cost] = max_profit
+        def dfs(u):
+            # Base states for accumulating children results
+            # Initialize with cost 0 having profit 0.
+            current_buy = [-float('inf')] * (budget + 1)
+            current_buy[0] = 0
+            
+            current_skip = [-float('inf')] * (budget + 1)
+            current_skip[0] = 0
+            
+            # Process all children
+            for v in adj[u]:
+                child_res_parent_bought, child_res_parent_skipped = dfs(v)
+                
+                # If u buys, children see 'parent bought'
+                current_buy = merge(current_buy, child_res_parent_bought)
+                # If u skips, children see 'parent skipped'
+                current_skip = merge(current_skip, child_res_parent_skipped)
+            
+            # Now calculate the two result tables for u's parent
+            res_parent_bought = [-float('inf')] * (budget + 1)
+            res_parent_skipped = [-float('inf')] * (budget + 1)
+            
+            u_full_cost = present[u]
+            u_half_cost = present[u] // 2
+            u_profit_base = future[u] # We subtract cost dynamically
+            
+            # 1. Construct res_parent_bought (u's parent bought)
+            # Option A: u Skips. Cost 0. Use current_skip.
+            for b in range(budget + 1):
+                if current_skip[b] != -float('inf'):
+                    if current_skip[b] > res_parent_bought[b]:
+                        res_parent_bought[b] = current_skip[b]
+            
+            # Option B: u Buys (Discounted). Cost u_half_cost. Use current_buy.
+            for b in range(budget + 1):
+                if current_buy[b] != -float('inf'):
+                    total_cost = b + u_half_cost
+                    if total_cost <= budget:
+                        profit = (u_profit_base - u_half_cost) + current_buy[b]
+                        if profit > res_parent_bought[total_cost]:
+                            res_parent_bought[total_cost] = profit
 
-            for v in children[u]:
-                f0_v, f1_v = dfs(v)
+            # 2. Construct res_parent_skipped (u's parent didn't buy)
+            # Option A: u Skips. Cost 0. Use current_skip.
+            for b in range(budget + 1):
+                if current_skip[b] != -float('inf'):
+                    if current_skip[b] > res_parent_skipped[b]:
+                        res_parent_skipped[b] = current_skip[b]
+                        
+            # Option B: u Buys (Full Price). Cost u_full_cost. Use current_buy.
+            for b in range(budget + 1):
+                if current_buy[b] != -float('inf'):
+                    total_cost = b + u_full_cost
+                    if total_cost <= budget:
+                        profit = (u_profit_base - u_full_cost) + current_buy[b]
+                        if profit > res_parent_skipped[total_cost]:
+                            res_parent_skipped[total_cost] = profit
+                            
+            return res_parent_bought, res_parent_skipped
 
-                # Merge into children0 with f0_v (parent-not-bought)
-                new0 = [NEG] * (B + 1)
-                for c in range(B + 1):
-                    if children0[c] == NEG:
-                        continue
-                    base = children0[c]
-                    # add cost from v
-                    rem = B - c
-                    for cv in range(rem + 1):
-                        if f0_v[cv] == NEG:
-                            continue
-                        val = base + f0_v[cv]
-                        if val > new0[c + cv]:
-                            new0[c + cv] = val
-                children0 = new0
-
-                # Merge into children1 with f1_v (parent-bought)
-                new1 = [NEG] * (B + 1)
-                for c in range(B + 1):
-                    if children1[c] == NEG:
-                        continue
-                    base = children1[c]
-                    rem = B - c
-                    for cv in range(rem + 1):
-                        if f1_v[cv] == NEG:
-                            continue
-                        val = base + f1_v[cv]
-                        if val > new1[c + cv]:
-                            new1[c + cv] = val
-                children1 = new1
-
-            # Now decide for node u itself
-            f0 = [NEG] * (B + 1)
-            f1 = [NEG] * (B + 1)
-
-            # Option 1: u does NOT buy
-            # Same for both parent states; just carry children0
-            for c in range(B + 1):
-                if children0[c] != NEG:
-                    if children0[c] > f0[c]:
-                        f0[c] = children0[c]
-                    if children0[c] > f1[c]:
-                        f1[c] = children0[c]
-
-            # Option 2: u DOES buy
-            # If parent not bought -> cost present[u], profit future[u] - present[u]
-            cost_no_disc = present[u]
-            profit_no_disc = future[u] - cost_no_disc
-
-            if cost_no_disc <= B:
-                for c in range(cost_no_disc, B + 1):
-                    if children1[c - cost_no_disc] == NEG:
-                        continue
-                    val = children1[c - cost_no_disc] + profit_no_disc
-                    if val > f0[c]:
-                        f0[c] = val
-
-            # If parent bought -> cost present[u]//2, profit future[u] - present[u]//2
-            cost_disc = present[u] // 2
-            profit_disc = future[u] - cost_disc
-
-            if cost_disc <= B:
-                for c in range(cost_disc, B + 1):
-                    if children1[c - cost_disc] == NEG:
-                        continue
-                    val = children1[c - cost_disc] + profit_disc
-                    if val > f1[c]:
-                        f1[c] = val
-
-            return f0, f1
-
-        root = 0  # employee 1 (index 0)
-        f0_root, f1_root = dfs(root)
-
-        # Root has no boss, so it can never receive a discount.
-        # Use only the "parent-not-bought" context (f0_root).
-        ans = max(f0_root[:B + 1])
-        return max(ans, 0)  # profit can't be negative if we choose to buy nothing
+        # The root is Employee 1 (index 0). The CEO has no parent, so we use the 
+        # "parent skipped" logic (paying full price if they buy).
+        _, root_res_skipped = dfs(0)
+        
+        # The result is the max profit found in the DP array for any cost <= budget
+        return max(0, max(root_res_skipped))
