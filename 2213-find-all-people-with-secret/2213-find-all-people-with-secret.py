@@ -4,7 +4,7 @@ class Solution:
         for x, y, t in [[0,firstPerson,0]]+meetings:
             adj[x].append((t,y))
             adj[y].append((t,x))
-        res={0}
+        res=set()
         q=[(0,0,firstPerson)]
         t=0
         while q:
@@ -13,5 +13,5 @@ class Solution:
                 if dt>=t:
                     heappush(q,(dt,y,dy)) 
             adj[y].clear()
-            res.add(y)
+            res.add(x)
         return list(res)
