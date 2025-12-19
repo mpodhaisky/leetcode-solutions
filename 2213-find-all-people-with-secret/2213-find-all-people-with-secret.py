@@ -6,7 +6,6 @@ class Solution:
             adj[y].append((t,x))
         res=set()
         q=[(0,0,firstPerson)]
-        t=0
         while q:
             t,x,y = heappop(q)
             for dt, dy in adj[y]:
