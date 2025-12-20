@@ -1,3 +1,3 @@
 class Solution:
     def minDeletionSize(self, strs: List[str]) -> int:
-        return sum("".join(row)!="".join(sorted(row)) for row in zip(*strs))
+        return sum(starmap(ne, zip(map(list,zip(*strs)),map(sorted,zip(*strs)))))
