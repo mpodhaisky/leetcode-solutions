@@ -1,3 +1,3 @@
 class Solution:
-    def minDeletionSize(self, strs: List[str]) -> int:
-        return sum(starmap(ne, zip(map(list,zip(*strs)),map(sorted,zip(*strs)))))
+    def minDeletionSize(self, A: List[str]) -> int:
+        return sum(starmap(ne, zip(map(list,zip(*A)),map(sorted,zip(*A)))))
