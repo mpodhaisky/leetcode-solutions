@@ -6,5 +6,5 @@ class Solution:
                 start, end, step = end-step,start, -2*step
             else:
                 start, end, step = end, start, -2 *step
-            n = abs(start-end) //abs(step) +1
+            n -= n>>1
         return start if n.bit_length()&1 else end
