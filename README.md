@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0981-delete-columns-to-make-sorted](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0981-delete-columns-to-make-sorted) |
 | [0992-delete-columns-to-make-sorted-ii](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0992-delete-columns-to-make-sorted-ii) |
 | [1000-delete-columns-to-make-sorted-iii](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1000-delete-columns-to-make-sorted-iii) |
+| [1232-sum-of-mutated-array-closest-to-target](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [3721-count-mentions-per-user](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3721-count-mentions-per-user) |
 | [3819-count-covered-buildings](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3819-count-covered-buildings) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1232-sum-of-mutated-array-closest-to-target](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [2213-find-all-people-with-secret](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2213-find-all-people-with-secret) |
 | [3721-count-mentions-per-user](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3721-count-mentions-per-user) |
 | [3819-count-covered-buildings](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3819-count-covered-buildings) |
@@ -158,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-find-all-people-with-secret](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2213-find-all-people-with-secret) |
+## Binary Search
+|  |
+| ------- |
+| [1232-sum-of-mutated-array-closest-to-target](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 <!---LeetCode Topics End-->
