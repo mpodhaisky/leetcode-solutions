@@ -1,12 +1,12 @@
 class Solution {
 public:
-    int bestClosingTime(string customers) {
-        int cur=0, res=0, idx=customers.length();
-        for (int i = customers.length()-1; i >=0; i--) {
-            cur += (customers[i] == 'Y' )? 1 : -1;
-            if (cur <= res) {
+    int bestClosingTime(string cust) {
+        int cur=0, res=cur, idx=res;
+        for (int i = 0; i < cust.size() ; i++) {
+            cur += (cust[i] == 'Y' )? -1 : 1;
+            if (cur < res) {
                 res = cur;
-                idx = i;
+                idx = i+1;
             }
         }
         return idx;
