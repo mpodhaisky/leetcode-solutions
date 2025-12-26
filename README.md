@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0001-two-sum) |
 | [0219-contains-duplicate-ii](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0336-palindrome-pairs](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0336-palindrome-pairs) |
+| [0424-longest-repeating-character-replacement](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0691-stickers-to-spell-word](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0691-stickers-to-spell-word) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [3819-count-covered-buildings](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3819-count-covered-buildings) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0301-remove-invalid-parentheses](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0336-palindrome-pairs](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0336-palindrome-pairs) |
+| [0424-longest-repeating-character-replacement](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0481-magical-string](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0481-magical-string) |
 | [0514-freedom-trail](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0514-freedom-trail) |
 | [0691-stickers-to-spell-word](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0691-stickers-to-spell-word) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [3980-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3980-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Prefix Sum
