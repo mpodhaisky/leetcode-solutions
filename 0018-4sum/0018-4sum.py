@@ -5,14 +5,14 @@ class Solution:
         for i in range(len(nums)):
             for j in range(i+1,len(nums)):
                 lo , hi = 0 , len(nums)-1
-                while lo < hi:
+                while lo < i and hi >  j:
                     cur = nums[i]+nums[j]+nums[lo]+nums[hi]
-                    if lo == i or lo == j or cur < target:
+                    if cur < target:
                         lo+=1
-                    elif hi == j or hi == i or cur > target:
+                    elif cur > target:
                         hi-=1
                     elif cur == target:
-                        res.add(tuple(sorted((nums[lo],nums[hi],nums[i],nums[j]))))
+                        res.add((nums[lo],nums[hi],nums[i],nums[j]))
                         hi-=1
                         lo+=1
         return list(map(list,res))
