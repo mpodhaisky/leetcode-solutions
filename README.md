@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-delete-columns-to-make-sorted-ii](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0992-delete-columns-to-make-sorted-ii) |
 | [1000-delete-columns-to-make-sorted-iii](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1000-delete-columns-to-make-sorted-iii) |
 | [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
+| [2576-minimum-penalty-for-a-shop](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2576-minimum-penalty-for-a-shop) |
 | [3934-coupon-code-validator](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3934-coupon-code-validator) |
 ## Dynamic Programming
 |  |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [2576-minimum-penalty-for-a-shop](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2576-minimum-penalty-for-a-shop) |
 | [3980-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3980-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Graph
 |  |
