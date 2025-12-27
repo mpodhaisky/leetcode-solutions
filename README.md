@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0214-shortest-palindrome) |
 | [0301-remove-invalid-parentheses](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0336-palindrome-pairs](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0336-palindrome-pairs) |
 | [0424-longest-repeating-character-replacement](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0214-shortest-palindrome) |
 ## Math
 |  |
 | ------- |
@@ -216,4 +218,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0233-number-of-digit-one](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0233-number-of-digit-one) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
