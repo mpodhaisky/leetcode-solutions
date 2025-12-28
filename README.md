@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-delete-columns-to-make-sorted-ii](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0992-delete-columns-to-make-sorted-ii) |
 | [1000-delete-columns-to-make-sorted-iii](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1000-delete-columns-to-make-sorted-iii) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1232-sum-of-mutated-array-closest-to-target) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2164-two-best-non-overlapping-events](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2479-meeting-rooms-iii](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2479-meeting-rooms-iii) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [3986-maximum-path-score-in-a-grid](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3986-maximum-path-score-in-a-grid) |
 ## Trie
 |  |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1232-sum-of-mutated-array-closest-to-target) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2164-two-best-non-overlapping-events](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2164-two-best-non-overlapping-events) |
 ## Heap (Priority Queue)
 |  |
