@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0336-palindrome-pairs](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0336-palindrome-pairs) |
 | [0424-longest-repeating-character-replacement](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0691-stickers-to-spell-word](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0691-stickers-to-spell-word) |
+| [0757-pyramid-transition-matrix](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0757-pyramid-transition-matrix) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2479-meeting-rooms-iii](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2479-meeting-rooms-iii) |
 | [3819-count-covered-buildings](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3819-count-covered-buildings) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0481-magical-string](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0481-magical-string) |
 | [0514-freedom-trail](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0514-freedom-trail) |
 | [0691-stickers-to-spell-word](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0691-stickers-to-spell-word) |
+| [0757-pyramid-transition-matrix](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0757-pyramid-transition-matrix) |
 | [0981-delete-columns-to-make-sorted](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0981-delete-columns-to-make-sorted) |
 | [0992-delete-columns-to-make-sorted-ii](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0992-delete-columns-to-make-sorted-ii) |
 | [1000-delete-columns-to-make-sorted-iii](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1000-delete-columns-to-make-sorted-iii) |
@@ -85,12 +87,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0089-gray-code) |
 | [0301-remove-invalid-parentheses](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0691-stickers-to-spell-word](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0691-stickers-to-spell-word) |
+| [0757-pyramid-transition-matrix](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0757-pyramid-transition-matrix) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0089-gray-code) |
 | [0137-single-number-ii](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0691-stickers-to-spell-word](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0691-stickers-to-spell-word) |
+| [0757-pyramid-transition-matrix](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0757-pyramid-transition-matrix) |
 ## Memoization
 |  |
 | ------- |
