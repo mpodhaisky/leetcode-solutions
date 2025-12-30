@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3934-coupon-code-validator](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3934-coupon-code-validator) |
 | [3980-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3980-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3986-maximum-path-score-in-a-grid](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3986-maximum-path-score-in-a-grid) |
+| [4061-minimum-swaps-to-avoid-forbidden-values](https://github.com/mpodhaisky/leetcode-solutions/tree/master/4061-minimum-swaps-to-avoid-forbidden-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2479-meeting-rooms-iii](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2479-meeting-rooms-iii) |
 | [3819-count-covered-buildings](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3819-count-covered-buildings) |
 | [3934-coupon-code-validator](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3934-coupon-code-validator) |
+| [4061-minimum-swaps-to-avoid-forbidden-values](https://github.com/mpodhaisky/leetcode-solutions/tree/master/4061-minimum-swaps-to-avoid-forbidden-values) |
 ## String
 |  |
 | ------- |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-delete-columns-to-make-sorted-ii](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0992-delete-columns-to-make-sorted-ii) |
 | [3334-apple-redistribution-into-boxes](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3334-apple-redistribution-into-boxes) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3351-maximize-happiness-of-selected-children) |
+| [4061-minimum-swaps-to-avoid-forbidden-values](https://github.com/mpodhaisky/leetcode-solutions/tree/master/4061-minimum-swaps-to-avoid-forbidden-values) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -241,4 +244,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0214-shortest-palindrome](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0214-shortest-palindrome) |
 | [1508-longest-happy-prefix](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1508-longest-happy-prefix) |
+## Counting
+|  |
+| ------- |
+| [4061-minimum-swaps-to-avoid-forbidden-values](https://github.com/mpodhaisky/leetcode-solutions/tree/master/4061-minimum-swaps-to-avoid-forbidden-values) |
 <!---LeetCode Topics End-->
