@@ -1,20 +1,19 @@
 class Solution:
     def numMagicSquaresInside(self, grid: List[List[int]]) -> int:
-        M,N = len(grid), len(grid[0])
-        
-        def is_magic(i,j):
-            seen=((1<<10)-1)^1
-            d1=grid[i][j]+grid[i-1][j-1]+grid[i-2][j-2]
-            d2=grid[i-2][j]+grid[i-1][j-1]+grid[i][j-2]
-            rs=[0,0,0]
-            cs=[0,0,0]
-            for di in range(3):
-                for dj in range(3):
-                    seen^=(1<<grid[i-di][j-dj])
-                    rs[di]+=grid[i-di][j-dj]
-                    cs[dj]+=grid[i-di][j-dj]
-            return set([d1,d2]+rs+cs)=={15} and not seen
-        
-        return sum(is_magic(i,j) for i,j in product(range(2,M),range(2,N)))
-                        
-
+        lo_shu = [
+            [[8, 1, 6], [3, 5, 7], [4, 9, 2]],  
+            [[4, 3, 8], [9, 5, 1], [2, 7, 6]],  
+            [[2, 9, 4], [7, 5, 3], [6, 1, 8]],  
+            [[6, 7, 2], [1, 5, 9], [8, 3, 4]],  
+            [[6, 1, 8], [7, 5, 3], [2, 9, 4]],  
+            [[4, 9, 2], [3, 5, 7], [8, 1, 6]],  
+            [[8, 3, 4], [1, 5, 9], [6, 7, 2]],  
+            [[2, 7, 6], [9, 5, 1], [4, 3, 8]]   
+        ]
+        M,N = len(grid),len(grid[0])
+        res=0
+        for m in lo_shu:
+            for r in range(M-2):
+                for c in range(N-2):
+                    res+=all(grid[r+dr][c+dc]==m[dr][dc] for dr, dc in product(range(3),repeat=2))
+        return res
