@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0514-freedom-trail](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0514-freedom-trail) |
 | [0691-stickers-to-spell-word](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0691-stickers-to-spell-word) |
+| [0863-sum-of-distances-in-tree](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0863-sum-of-distances-in-tree) |
 | [1000-delete-columns-to-make-sorted-iii](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1000-delete-columns-to-make-sorted-iii) |
 | [1527-number-of-ways-to-paint-n-3-grid](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1527-number-of-ways-to-paint-n-3-grid) |
 | [1996-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1996-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0514-freedom-trail](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0514-freedom-trail) |
+| [0863-sum-of-distances-in-tree](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0863-sum-of-distances-in-tree) |
 | [2213-find-all-people-with-secret](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2213-find-all-people-with-secret) |
 | [3854-maximum-profit-from-trading-stocks-with-discounts](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3854-maximum-profit-from-trading-stocks-with-discounts) |
 ## Matrix
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0863-sum-of-distances-in-tree](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0863-sum-of-distances-in-tree) |
 | [3854-maximum-profit-from-trading-stocks-with-discounts](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3854-maximum-profit-from-trading-stocks-with-discounts) |
 ## Sliding Window
 |  |
@@ -219,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0863-sum-of-distances-in-tree](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0863-sum-of-distances-in-tree) |
 | [2213-find-all-people-with-secret](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2213-find-all-people-with-secret) |
 ## Binary Search
 |  |
