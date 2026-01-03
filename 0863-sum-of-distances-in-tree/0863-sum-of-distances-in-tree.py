@@ -6,22 +6,14 @@ class Solution:
             adj[b].append(a)
         
         dp = {}
-        @cache
+        res=[0]*n
+
         def size(parent,cur):
             dp[cur] =1+ sum(size(cur,m) for m in adj[cur] if m!=parent)
+            if cur!=0:
+                res[0]+=dp[cur]
             return dp[cur]
         size(-1,0)
-
-        q=[(0,0)]
-        seen={0}
-        res=[0]*n
-        for step, node in q:
-            for m in adj[node]:
-                if m not in seen:
-                    seen.add(m)
-                    res[0]+=step+1
-                    q.append((step+1,m))
-        
         
         seen={0}
         q=[0]
