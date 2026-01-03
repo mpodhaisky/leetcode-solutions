@@ -1,12 +1,7 @@
 class Solution:
     def numOfWays(self, n: int) -> int:
         M=10**9+7
-        dp={"333":1}
-        for _ in range(n):
-            next_dp=Counter()
-            for row in dp:
-                for a, b, c in product(map(str,range(3)),repeat=3):
-                    if a!=b and b!=c and a!=row[0] and b!=row[1] and c!=row[2]:
-                        next_dp[a+b+c]=(next_dp[a+b+c]+dp[row])%M
-            dp=next_dp
-        return dp.total() % M
+        dp=[i%3 != (i//3)%3 and (i//3)%3 != (i//9)%3 for i in range(27)]
+        for _ in range(n-1):
+            dp[:] = [sum(dp[j] for j in range(27) if dp[i] and i%3!=j%3 and (i//3)%3 != (j//3)%3 and (i//9)%3!=(j//9)%3) %M for i in range(27)]
+        return sum(dp)%M
