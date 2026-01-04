@@ -3,11 +3,11 @@ class Solution:
         res=0
         for n in nums:
             cnt=cur=S=1
-            while cur!=n and cnt <5:
+            while cur!=n and cnt <4:
                 cur = n//(n//(cur+1))
                 if n%cur==0:
                     cnt+=1
                     S+=cur
-            if cnt == 4:
+            if cnt==4 and cur == n:
                 res+=S
         return res
