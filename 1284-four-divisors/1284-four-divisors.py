@@ -3,7 +3,7 @@ class Solution:
         res=0
         for n in nums:
             cnt=cur=S=1
-            while cur!=n:
+            while cur!=n and cnt <5:
                 cur = n//(n//(cur+1))
                 if n%cur==0:
                     cnt+=1
