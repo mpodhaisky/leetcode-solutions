@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0330-patching-array](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0330-patching-array) |
 | [0336-palindrome-pairs](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0336-palindrome-pairs) |
 | [0416-partition-equal-subset-sum](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0691-stickers-to-spell-word](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0691-stickers-to-spell-word) |
 | [0870-magic-squares-in-grid](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0870-magic-squares-in-grid) |
 | [0981-delete-columns-to-make-sorted](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0981-delete-columns-to-make-sorted) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0001-two-sum) |
 | [0219-contains-duplicate-ii](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0336-palindrome-pairs](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0336-palindrome-pairs) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0424-longest-repeating-character-replacement](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0691-stickers-to-spell-word](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0691-stickers-to-spell-word) |
 | [0757-pyramid-transition-matrix](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0757-pyramid-transition-matrix) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0089-gray-code](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0089-gray-code) |
 | [0137-single-number-ii](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0137-single-number-ii) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0691-stickers-to-spell-word](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0691-stickers-to-spell-word) |
 | [0757-pyramid-transition-matrix](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0757-pyramid-transition-matrix) |
 ## Memoization
@@ -204,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0336-palindrome-pairs](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0336-palindrome-pairs) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## Union Find
 |  |
 | ------- |
