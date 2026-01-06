@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0066-plus-one) |
 | [0089-gray-code](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0089-gray-code) |
 | [0233-number-of-digit-one](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0233-number-of-digit-one) |
+| [0382-linked-list-random-node](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0382-linked-list-random-node) |
 | [0870-magic-squares-in-grid](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0870-magic-squares-in-grid) |
 | [1284-four-divisors](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1284-four-divisors) |
 | [1996-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1996-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
@@ -273,4 +274,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+## Linked List
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0382-linked-list-random-node) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0382-linked-list-random-node) |
+## Randomized
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
