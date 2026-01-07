@@ -1,24 +1,15 @@
 class Solution:
     def maxSubarraySumCircular(self, nums: List[int]) -> int:
-        res=-inf
-        cur=0
+        seen=SortedList([0])
+        q=deque([0])
+        res = -inf
+        for i in range(2*len(nums)):
+            q.append(q[-1]+nums[i%len(nums)])
 
-        for n in nums:
-            cur+=n
-            res = max(cur,res)
-            cur = max(0,cur)
-
-        S = sum(nums)
-        cur=0
-        cnt=0
-        for n in nums:
-            cnt+=1
-            cur+=n
-            if cnt !=len(nums):
-                res = max(res, S-cur)
-            if cur >= 0:
-                cur = 0
-                cnt=0
+            if i >=len(nums):
+                seen.remove(q.popleft())
             
-        
+            res =max(res,q[-1]-seen[0])
+            seen.add(q[-1])
         return res
+
