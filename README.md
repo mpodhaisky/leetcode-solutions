@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0514-freedom-trail](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0514-freedom-trail) |
 | [0863-sum-of-distances-in-tree](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0863-sum-of-distances-in-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1465-maximum-product-of-splitted-binary-tree](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 | [2213-find-all-people-with-secret](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2213-find-all-people-with-secret) |
 | [3854-maximum-profit-from-trading-stocks-with-discounts](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3854-maximum-profit-from-trading-stocks-with-discounts) |
 ## Matrix
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0863-sum-of-distances-in-tree](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0863-sum-of-distances-in-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1465-maximum-product-of-splitted-binary-tree](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 | [3854-maximum-profit-from-trading-stocks-with-discounts](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3854-maximum-profit-from-trading-stocks-with-discounts) |
 ## Sliding Window
 |  |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1465-maximum-product-of-splitted-binary-tree](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 ## Linked List
 |  |
 | ------- |
