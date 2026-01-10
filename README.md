@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0481-magical-string](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0481-magical-string) |
 | [0514-freedom-trail](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0514-freedom-trail) |
 | [0691-stickers-to-spell-word](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0691-stickers-to-spell-word) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0757-pyramid-transition-matrix](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0757-pyramid-transition-matrix) |
 | [0981-delete-columns-to-make-sorted](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0981-delete-columns-to-make-sorted) |
 | [0992-delete-columns-to-make-sorted-ii](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0992-delete-columns-to-make-sorted-ii) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0514-freedom-trail](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0514-freedom-trail) |
 | [0691-stickers-to-spell-word](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0691-stickers-to-spell-word) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0863-sum-of-distances-in-tree](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0863-sum-of-distances-in-tree) |
 | [0954-maximum-sum-circular-subarray](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [1000-delete-columns-to-make-sorted-iii](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1000-delete-columns-to-make-sorted-iii) |
