@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0018-4sum) |
 | [0066-plus-one](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0066-plus-one) |
+| [0085-maximal-rectangle](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0137-single-number-ii](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0200-number-of-islands](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0219-contains-duplicate-ii](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0233-number-of-digit-one](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0233-number-of-digit-one) |
 | [0416-partition-equal-subset-sum](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0514-freedom-trail](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0514-freedom-trail) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0321-create-maximum-number](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0321-create-maximum-number) |
 ## Greedy
 |  |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0321-create-maximum-number](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0321-create-maximum-number) |
 ## String Matching
 |  |
@@ -211,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0870-magic-squares-in-grid](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0870-magic-squares-in-grid) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
