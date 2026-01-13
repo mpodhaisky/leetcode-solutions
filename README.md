@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3334-apple-redistribution-into-boxes](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3334-apple-redistribution-into-boxes) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3721-count-mentions-per-user](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3721-count-mentions-per-user) |
+| [3763-separate-squares-i](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3763-separate-squares-i) |
 | [3819-count-covered-buildings](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3819-count-covered-buildings) |
 | [3854-maximum-profit-from-trading-stocks-with-discounts](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3854-maximum-profit-from-trading-stocks-with-discounts) |
 | [3892-best-time-to-buy-and-sell-stock-v](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2164-two-best-non-overlapping-events](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2164-two-best-non-overlapping-events) |
+| [3763-separate-squares-i](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3763-separate-squares-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
