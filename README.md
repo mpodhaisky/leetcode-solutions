@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2479-meeting-rooms-iii](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2479-meeting-rooms-iii) |
 | [3214-maximize-area-of-square-hole-in-grid](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3214-maximize-area-of-square-hole-in-grid) |
+| [3250-maximum-square-area-by-removing-fences-from-a-field](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3250-maximum-square-area-by-removing-fences-from-a-field) |
 | [3334-apple-redistribution-into-boxes](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3334-apple-redistribution-into-boxes) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3721-count-mentions-per-user](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3721-count-mentions-per-user) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2479-meeting-rooms-iii](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2479-meeting-rooms-iii) |
+| [3250-maximum-square-area-by-removing-fences-from-a-field](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3250-maximum-square-area-by-removing-fences-from-a-field) |
 | [3819-count-covered-buildings](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3819-count-covered-buildings) |
 | [3934-coupon-code-validator](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3934-coupon-code-validator) |
 | [4061-minimum-swaps-to-avoid-forbidden-values](https://github.com/mpodhaisky/leetcode-solutions/tree/master/4061-minimum-swaps-to-avoid-forbidden-values) |
@@ -351,4 +353,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3775-separate-squares-ii](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3775-separate-squares-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3250-maximum-square-area-by-removing-fences-from-a-field](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3250-maximum-square-area-by-removing-fences-from-a-field) |
 <!---LeetCode Topics End-->
