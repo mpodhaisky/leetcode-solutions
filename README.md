@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2479-meeting-rooms-iii](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2479-meeting-rooms-iii) |
 | [3214-maximize-area-of-square-hole-in-grid](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3214-maximize-area-of-square-hole-in-grid) |
 | [3250-maximum-square-area-by-removing-fences-from-a-field](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3250-maximum-square-area-by-removing-fences-from-a-field) |
+| [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3334-apple-redistribution-into-boxes](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3334-apple-redistribution-into-boxes) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3721-count-mentions-per-user](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3721-count-mentions-per-user) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1996-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1996-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
+| [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3721-count-mentions-per-user](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3721-count-mentions-per-user) |
 ## Simulation
 |  |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1395-minimum-time-visiting-all-points](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1395-minimum-time-visiting-all-points) |
+| [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Segment Tree
 |  |
 | ------- |
