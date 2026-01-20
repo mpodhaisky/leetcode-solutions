@@ -1,6 +1,4 @@
 class Solution:
     def twoEggDrop(self, n: int) -> int:
-        k=1
-        while k*(k+1)//2 <n:
-            k+=1
-        return k
+        return bisect_left(range(n+1), True, key = lambda k: k*(k+1)//2 >= n)
+        
