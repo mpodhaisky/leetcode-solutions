@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3334-apple-redistribution-into-boxes](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3334-apple-redistribution-into-boxes) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3605-construct-the-minimum-bitwise-array-i](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3605-construct-the-minimum-bitwise-array-i) |
+| [3611-construct-the-minimum-bitwise-array-ii](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3611-construct-the-minimum-bitwise-array-ii) |
 | [3721-count-mentions-per-user](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3721-count-mentions-per-user) |
 | [3763-separate-squares-i](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3763-separate-squares-i) |
 | [3775-separate-squares-ii](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3775-separate-squares-ii) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0691-stickers-to-spell-word](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0691-stickers-to-spell-word) |
 | [0757-pyramid-transition-matrix](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0757-pyramid-transition-matrix) |
 | [3605-construct-the-minimum-bitwise-array-i](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3605-construct-the-minimum-bitwise-array-i) |
+| [3611-construct-the-minimum-bitwise-array-ii](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3611-construct-the-minimum-bitwise-array-ii) |
 | [4154-maximum-bitwise-and-after-increment-operations](https://github.com/mpodhaisky/leetcode-solutions/tree/master/4154-maximum-bitwise-and-after-increment-operations) |
 ## Memoization
 |  |
