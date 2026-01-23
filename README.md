@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3611-construct-the-minimum-bitwise-array-ii](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3611-construct-the-minimum-bitwise-array-ii) |
 | [3721-count-mentions-per-user](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3721-count-mentions-per-user) |
 | [3763-separate-squares-i](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3763-separate-squares-i) |
+| [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3775-separate-squares-ii](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3775-separate-squares-ii) |
 | [3819-count-covered-buildings](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3819-count-covered-buildings) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2479-meeting-rooms-iii](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2479-meeting-rooms-iii) |
 | [3250-maximum-square-area-by-removing-fences-from-a-field](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3250-maximum-square-area-by-removing-fences-from-a-field) |
+| [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3819-count-covered-buildings](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3819-count-covered-buildings) |
 | [3934-coupon-code-validator](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3934-coupon-code-validator) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2479-meeting-rooms-iii](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2479-meeting-rooms-iii) |
 | [3721-count-mentions-per-user](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3721-count-mentions-per-user) |
+| [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Depth-First Search
 |  |
@@ -301,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2164-two-best-non-overlapping-events](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2479-meeting-rooms-iii](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2479-meeting-rooms-iii) |
+| [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Combinatorics
 |  |
@@ -334,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0382-linked-list-random-node) |
+| [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Reservoir Sampling
 |  |
@@ -349,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0914-random-point-in-non-overlapping-rectangles) |
+| [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Divide and Conquer
 |  |
@@ -382,5 +388,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Doubly-Linked List
 |  |
 | ------- |
+| [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
