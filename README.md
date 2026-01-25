@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1569-max-dot-product-of-two-subsequences](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1569-max-dot-product-of-two-subsequences) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2089-maximum-matrix-sum](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2089-maximum-matrix-sum) |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2164-two-best-non-overlapping-events](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2479-meeting-rooms-iii](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2479-meeting-rooms-iii) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0018-4sum) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2164-two-best-non-overlapping-events](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2213-find-all-people-with-secret](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2213-find-all-people-with-secret) |
 | [2479-meeting-rooms-iii](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2479-meeting-rooms-iii) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3980-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3980-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Prefix Sum
 |  |
