@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-sum-of-distances-in-tree](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0863-sum-of-distances-in-tree) |
 | [0954-maximum-sum-circular-subarray](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [1000-delete-columns-to-make-sorted-iii](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1000-delete-columns-to-make-sorted-iii) |
+| [1263-number-of-dice-rolls-with-target-sum](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1263-number-of-dice-rolls-with-target-sum) |
 | [1527-number-of-ways-to-paint-n-3-grid](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1527-number-of-ways-to-paint-n-3-grid) |
 | [1569-max-dot-product-of-two-subsequences](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1569-max-dot-product-of-two-subsequences) |
 | [1996-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1996-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
