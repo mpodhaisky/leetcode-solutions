@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2479-meeting-rooms-iii](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2479-meeting-rooms-iii) |
 | [3214-maximize-area-of-square-hole-in-grid](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3214-maximize-area-of-square-hole-in-grid) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3238-minimum-cost-to-convert-string-ii](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3238-minimum-cost-to-convert-string-ii) |
 | [3250-maximum-square-area-by-removing-fences-from-a-field](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3250-maximum-square-area-by-removing-fences-from-a-field) |
 | [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3334-apple-redistribution-into-boxes](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3334-apple-redistribution-into-boxes) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2576-minimum-penalty-for-a-shop) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3238-minimum-cost-to-convert-string-ii](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3238-minimum-cost-to-convert-string-ii) |
 | [3934-coupon-code-validator](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3934-coupon-code-validator) |
 ## Dynamic Programming
 |  |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-two-best-non-overlapping-events](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
+| [3238-minimum-cost-to-convert-string-ii](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3238-minimum-cost-to-convert-string-ii) |
 | [3854-maximum-profit-from-trading-stocks-with-discounts](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3854-maximum-profit-from-trading-stocks-with-discounts) |
 | [3889-minimum-cost-path-with-teleportations](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3889-minimum-cost-path-with-teleportations) |
 | [3892-best-time-to-buy-and-sell-stock-v](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0336-palindrome-pairs](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0336-palindrome-pairs) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [3238-minimum-cost-to-convert-string-ii](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3238-minimum-cost-to-convert-string-ii) |
 ## Union Find
 |  |
 | ------- |
@@ -410,10 +414,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3238-minimum-cost-to-convert-string-ii](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3238-minimum-cost-to-convert-string-ii) |
 | [3887-minimum-cost-path-with-edge-reversals](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3887-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
 |  |
 | ------- |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3238-minimum-cost-to-convert-string-ii](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3238-minimum-cost-to-convert-string-ii) |
 | [3887-minimum-cost-path-with-edge-reversals](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3887-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
