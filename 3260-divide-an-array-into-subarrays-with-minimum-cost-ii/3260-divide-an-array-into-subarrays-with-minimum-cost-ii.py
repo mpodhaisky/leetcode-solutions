@@ -96,5 +96,5 @@ def build_wavelet_tree(arr: List[int]) -> WaveletTree:
 
 class Solution:
     def minimumCost(self, nums: List[int], k: int, dist: int) -> int:
-        wt = build_wavelet_tree(nums[1:])
-        return nums[0] + min(wt.sum_k_smallest(i,i+dist,k-1) for i in range(len(nums)-1-dist))
+        wt = build_wavelet_tree(nums)
+        return nums[0] + min(wt.sum_k_smallest(i,i+dist,k-1) for i in range(1,len(nums)-dist))
