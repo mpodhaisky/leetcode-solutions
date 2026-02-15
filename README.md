@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2479-meeting-rooms-iii](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2479-meeting-rooms-iii) |
 | [3250-maximum-square-area-by-removing-fences-from-a-field](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3250-maximum-square-area-by-removing-fences-from-a-field) |
 | [3260-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3260-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1508-longest-happy-prefix](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1508-longest-happy-prefix) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2576-minimum-penalty-for-a-shop) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [4061-minimum-swaps-to-avoid-forbidden-values](https://github.com/mpodhaisky/leetcode-solutions/tree/master/4061-minimum-swaps-to-avoid-forbidden-values) |
 ## Binary Tree
 |  |
