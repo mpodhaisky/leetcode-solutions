@@ -1,16 +1,17 @@
-N=pow(10,5)+1
-score=[0]*N
-
-for n in range(1,N):
-    cnt=cur=S=1
-    while cur!=n and cnt <4:
-        cur = n//(n//(cur+1))
-        if n%cur==0:
-            cnt+=1
-            S+=cur
-        if cnt==4 and cur == n:
-            score[n]=S
-
 class Solution:
     def sumFourDivisors(self, nums: List[int]) -> int:
-        return sum(score[n] for n in nums)
+
+        def divisors(n):
+            res=cnt=cur=1
+            while cur <n:
+                cur = n // (n//(cur+1))
+                if n % cur ==0:
+                    res+=cur
+                    cnt+=1
+            return cnt, res
+        res=0
+        for n in nums:
+            cnt, S = divisors(n)
+            if cnt == 4:
+                res+=S
+        return res
