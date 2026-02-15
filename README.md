@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0336-palindrome-pairs](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0336-palindrome-pairs) |
 | [0416-partition-equal-subset-sum](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0643-maximum-average-subarray-i](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0691-stickers-to-spell-word](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0691-stickers-to-spell-word) |
 | [0870-magic-squares-in-grid](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0870-magic-squares-in-grid) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0914-random-point-in-non-overlapping-rectangles) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0643-maximum-average-subarray-i](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3260-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3260-divide-an-array-into-subarrays-with-minimum-cost-ii) |
