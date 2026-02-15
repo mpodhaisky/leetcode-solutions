@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1569-max-dot-product-of-two-subsequences](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1569-max-dot-product-of-two-subsequences) |
+| [1833-find-the-highest-altitude](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1833-find-the-highest-altitude) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2058-concatenation-of-array](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2058-concatenation-of-array) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [1311-largest-magic-square](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1311-largest-magic-square) |
 | [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1833-find-the-highest-altitude](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1833-find-the-highest-altitude) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2576-minimum-penalty-for-a-shop) |
 | [3980-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3980-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Graph
