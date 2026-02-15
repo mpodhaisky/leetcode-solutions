@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0691-stickers-to-spell-word](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0691-stickers-to-spell-word) |
 | [0757-pyramid-transition-matrix](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0757-pyramid-transition-matrix) |
+| [0795-k-th-symbol-in-grammar](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0795-k-th-symbol-in-grammar) |
 | [3605-construct-the-minimum-bitwise-array-i](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3605-construct-the-minimum-bitwise-array-i) |
 | [3611-construct-the-minimum-bitwise-array-ii](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3611-construct-the-minimum-bitwise-array-ii) |
 | [4154-maximum-bitwise-and-after-increment-operations](https://github.com/mpodhaisky/leetcode-solutions/tree/master/4154-maximum-bitwise-and-after-increment-operations) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0089-gray-code) |
 | [0233-number-of-digit-one](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0233-number-of-digit-one) |
 | [0382-linked-list-random-node](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0382-linked-list-random-node) |
+| [0795-k-th-symbol-in-grammar](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0795-k-th-symbol-in-grammar) |
 | [0870-magic-squares-in-grid](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0870-magic-squares-in-grid) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [1284-four-divisors](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1284-four-divisors) |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0233-number-of-digit-one](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0233-number-of-digit-one) |
+| [0795-k-th-symbol-in-grammar](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0795-k-th-symbol-in-grammar) |
 ## Rolling Hash
 |  |
 | ------- |
