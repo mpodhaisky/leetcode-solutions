@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1284-four-divisors](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1284-four-divisors) |
 | [1306-minimum-absolute-difference](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1306-minimum-absolute-difference) |
 | [1311-largest-magic-square](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1311-largest-magic-square) |
+| [1331-path-with-maximum-gold](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1331-path-with-maximum-gold) |
 | [1395-minimum-time-visiting-all-points](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1395-minimum-time-visiting-all-points) |
 | [1396-count-servers-that-communicate](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1396-count-servers-that-communicate) |
 | [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0691-stickers-to-spell-word](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0691-stickers-to-spell-word) |
 | [0757-pyramid-transition-matrix](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0757-pyramid-transition-matrix) |
+| [1331-path-with-maximum-gold](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1331-path-with-maximum-gold) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0870-magic-squares-in-grid](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0870-magic-squares-in-grid) |
 | [1311-largest-magic-square](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1311-largest-magic-square) |
+| [1331-path-with-maximum-gold](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1331-path-with-maximum-gold) |
 | [1396-count-servers-that-communicate](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1396-count-servers-that-communicate) |
 | [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
