@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-two-best-non-overlapping-events](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
+| [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3238-minimum-cost-to-convert-string-ii) |
 | [3854-maximum-profit-from-trading-stocks-with-discounts](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3854-maximum-profit-from-trading-stocks-with-discounts) |
 | [3889-minimum-cost-path-with-teleportations](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3889-minimum-cost-path-with-teleportations) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0691-stickers-to-spell-word](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0691-stickers-to-spell-word) |
 | [0757-pyramid-transition-matrix](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0757-pyramid-transition-matrix) |
 | [0795-k-th-symbol-in-grammar](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0795-k-th-symbol-in-grammar) |
+| [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 | [3605-construct-the-minimum-bitwise-array-i](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3605-construct-the-minimum-bitwise-array-i) |
 | [3611-construct-the-minimum-bitwise-array-ii](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3611-construct-the-minimum-bitwise-array-ii) |
 | [4154-maximum-bitwise-and-after-increment-operations](https://github.com/mpodhaisky/leetcode-solutions/tree/master/4154-maximum-bitwise-and-after-increment-operations) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-delete-columns-to-make-sorted-ii](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0992-delete-columns-to-make-sorted-ii) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2089-maximum-matrix-sum](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2089-maximum-matrix-sum) |
+| [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 | [2811-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2811-determine-the-minimum-sum-of-a-k-avoiding-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3334-apple-redistribution-into-boxes](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3334-apple-redistribution-into-boxes) |
