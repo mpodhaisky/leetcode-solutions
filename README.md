@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1569-max-dot-product-of-two-subsequences](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1569-max-dot-product-of-two-subsequences) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2058-concatenation-of-array](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2058-concatenation-of-array) |
 | [2089-maximum-matrix-sum](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2089-maximum-matrix-sum) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2164-two-best-non-overlapping-events](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2164-two-best-non-overlapping-events) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2058-concatenation-of-array](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2058-concatenation-of-array) |
 | [2479-meeting-rooms-iii](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2479-meeting-rooms-iii) |
 | [3721-count-mentions-per-user](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3721-count-mentions-per-user) |
 | [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
