@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2164-two-best-non-overlapping-events](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
+| [2430-number-of-excellent-pairs](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2430-number-of-excellent-pairs) |
 | [2479-meeting-rooms-iii](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2479-meeting-rooms-iii) |
 | [3214-maximize-area-of-square-hole-in-grid](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3214-maximize-area-of-square-hole-in-grid) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1533-display-table-of-food-orders-in-a-restaurant](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1533-display-table-of-food-orders-in-a-restaurant) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2430-number-of-excellent-pairs](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2430-number-of-excellent-pairs) |
 | [2479-meeting-rooms-iii](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2479-meeting-rooms-iii) |
 | [3250-maximum-square-area-by-removing-fences-from-a-field](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3250-maximum-square-area-by-removing-fences-from-a-field) |
 | [3260-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3260-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0691-stickers-to-spell-word](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0691-stickers-to-spell-word) |
 | [0757-pyramid-transition-matrix](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0757-pyramid-transition-matrix) |
 | [0795-k-th-symbol-in-grammar](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0795-k-th-symbol-in-grammar) |
+| [2430-number-of-excellent-pairs](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2430-number-of-excellent-pairs) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 | [3605-construct-the-minimum-bitwise-array-i](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3605-construct-the-minimum-bitwise-array-i) |
 | [3611-construct-the-minimum-bitwise-array-ii](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3611-construct-the-minimum-bitwise-array-ii) |
@@ -399,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2164-two-best-non-overlapping-events](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2164-two-best-non-overlapping-events) |
+| [2430-number-of-excellent-pairs](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2430-number-of-excellent-pairs) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3763-separate-squares-i](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3763-separate-squares-i) |
 | [3775-separate-squares-ii](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3775-separate-squares-ii) |
