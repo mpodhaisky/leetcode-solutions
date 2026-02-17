@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3356-shortest-uncommon-substring-in-an-array](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3356-shortest-uncommon-substring-in-an-array) |
 | [3934-coupon-code-validator](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3934-coupon-code-validator) |
 | [3999-minimum-operations-to-transform-string](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3999-minimum-operations-to-transform-string) |
+| [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/mpodhaisky/leetcode-solutions/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 | [3721-count-mentions-per-user](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3721-count-mentions-per-user) |
+| [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/mpodhaisky/leetcode-solutions/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2576-minimum-penalty-for-a-shop) |
 | [3980-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3980-best-time-to-buy-and-sell-stock-using-strategy) |
+| [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/mpodhaisky/leetcode-solutions/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Graph
 |  |
 | ------- |
