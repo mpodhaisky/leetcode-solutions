@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3889-minimum-cost-path-with-teleportations](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3889-minimum-cost-path-with-teleportations) |
 | [3892-best-time-to-buy-and-sell-stock-v](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
 | [3934-coupon-code-validator](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3934-coupon-code-validator) |
+| [3941-number-of-integers-with-popcount-depth-equal-to-k-ii](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3941-number-of-integers-with-popcount-depth-equal-to-k-ii) |
 | [3952-trionic-array-i](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3952-trionic-array-i) |
 | [3956-trionic-array-ii](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3956-trionic-array-ii) |
 | [3980-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3980-best-time-to-buy-and-sell-stock-using-strategy) |
@@ -476,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0954-maximum-sum-circular-subarray](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0954-maximum-sum-circular-subarray) |
+| [3941-number-of-integers-with-popcount-depth-equal-to-k-ii](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3941-number-of-integers-with-popcount-depth-equal-to-k-ii) |
 ## Queue
 |  |
 | ------- |
@@ -493,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3775-separate-squares-ii](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3775-separate-squares-ii) |
+| [3941-number-of-integers-with-popcount-depth-equal-to-k-ii](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3941-number-of-integers-with-popcount-depth-equal-to-k-ii) |
 ## Line Sweep
 |  |
 | ------- |
@@ -523,4 +526,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1396-count-servers-that-communicate) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3941-number-of-integers-with-popcount-depth-equal-to-k-ii](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3941-number-of-integers-with-popcount-depth-equal-to-k-ii) |
 <!---LeetCode Topics End-->
