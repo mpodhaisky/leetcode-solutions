@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3250-maximum-square-area-by-removing-fences-from-a-field](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3250-maximum-square-area-by-removing-fences-from-a-field) |
 | [3260-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3260-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3290-number-of-subarrays-that-match-a-pattern-ii](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3290-number-of-subarrays-that-match-a-pattern-ii) |
 | [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3334-apple-redistribution-into-boxes](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3334-apple-redistribution-into-boxes) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3351-maximize-happiness-of-selected-children) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0214-shortest-palindrome) |
 | [1508-longest-happy-prefix](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1508-longest-happy-prefix) |
+| [3290-number-of-subarrays-that-match-a-pattern-ii](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3290-number-of-subarrays-that-match-a-pattern-ii) |
 ## Math
 |  |
 | ------- |
@@ -420,11 +422,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0214-shortest-palindrome](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0214-shortest-palindrome) |
 | [1508-longest-happy-prefix](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1508-longest-happy-prefix) |
+| [3290-number-of-subarrays-that-match-a-pattern-ii](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3290-number-of-subarrays-that-match-a-pattern-ii) |
 ## Hash Function
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0214-shortest-palindrome) |
 | [1508-longest-happy-prefix](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1508-longest-happy-prefix) |
+| [3290-number-of-subarrays-that-match-a-pattern-ii](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3290-number-of-subarrays-that-match-a-pattern-ii) |
 ## Counting
 |  |
 | ------- |
