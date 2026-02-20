@@ -1,29 +1,37 @@
+class BinaryTrie:
+    def __init__(self):
+        self.trie = (T := lambda: defaultdict(T))()
+
+    def add(self, word: str) -> None:
+        T = reduce(getitem,word,self.trie)
+        if "#" in T:
+            T["#"]+=1
+        else:
+            T["#"]=1
+
+    def remove(self,word:str) -> None:
+        reduce(getitem, word, self.trie)["#"]-=1
+
+    def closest(self, word):
+        T = self.trie
+        res=""
+        for c in word:
+            if T.get(c,{}):
+                res+=c
+                T = T[c]
+            else:
+                res+=str(1-int(c))
+                T = T[str(1-int(c))]
+        return res
+
 class Solution:
     def findMaximumXOR(self, nums: List[int]) -> int:
-        if len(set(nums))==1: return 0
-        i = 32
-        while len(set((1<<i)&n for n in nums))==1: i-=1
-        q=[(i-1,[n for n in nums if not n&(1<<i)],[n for n in nums if n&(1<<i)])]
+        def stringify(n):
+            return bin(n)[2:].zfill(32)
         res=0
-        for depth, left, right in q:
-            if depth==-1 or len(left)==len(right)==1:
-                res=max(res,left.pop()^right.pop())
-                continue
-            l0,l1,r0,r1=[],[],[],[]
-            for n in left:
-                if n & (1<<depth):
-                    l1.append(n)
-                else:
-                    l0.append(n)
-            for n in right:
-                if n & (1<<depth):
-                    r1.append(n)
-                else:
-                    r0.append(n)
-            if not (l0 and r1) and not (l1 and r0):
-                q.append((depth-1,left,right))
-            if (l0 and r1):
-                q.append((depth-1,l0,r1))
-            if (l1 and r0):
-                q.append((depth-1,l1,r0))
+        T = BinaryTrie()
+        for n in nums:
+            T.add(stringify(n))
+            m = int(T.closest("".join(str(1-int(c)) for c in stringify(n))),2)
+            res = max(res,n^m)
         return res
