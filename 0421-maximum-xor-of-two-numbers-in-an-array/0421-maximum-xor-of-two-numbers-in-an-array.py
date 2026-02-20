@@ -3,6 +3,7 @@ class BinaryTrie:
         self.trie = (T := lambda: defaultdict(T))()
 
     def add(self, word: str) -> None:
+        word = bin(word)[2:].zfill(32)
         T = reduce(getitem,word,self.trie)
         if "#" in T:
             T["#"]+=1
@@ -10,9 +11,11 @@ class BinaryTrie:
             T["#"]=1
 
     def remove(self,word:str) -> None:
+        word = bin(word)[2:].zfill(32)
         reduce(getitem, word, self.trie)["#"]-=1
 
-    def closest(self, word):
+    def closest_complement(self, word):
+        word = "".join(str(1-int(c)) for c in bin(word)[2:].zfill(32))
         T = self.trie
         res=""
         for c in word:
@@ -22,16 +25,14 @@ class BinaryTrie:
             else:
                 res+=str(1-int(c))
                 T = T[str(1-int(c))]
-        return res
+        return int(res,2)
 
 class Solution:
     def findMaximumXOR(self, nums: List[int]) -> int:
-        def stringify(n):
-            return bin(n)[2:].zfill(32)
         res=0
         T = BinaryTrie()
         for n in nums:
-            T.add(stringify(n))
-            m = int(T.closest("".join(str(1-int(c)) for c in stringify(n))),2)
+            T.add(n)
+            m = T.closest_complement(n)
             res = max(res,n^m)
         return res
