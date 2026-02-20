@@ -38,7 +38,7 @@ class BinaryTrie:
                 break
             T = child
 
-    def closest_complement(self, x: int) -> int:
+    def max_xor(self, x: int) -> int:
         bits = bin(x)[2:].zfill(32)
         T = self.trie
         if T.get("cnt", 0) == 0:
@@ -53,7 +53,7 @@ class BinaryTrie:
             else:
                 res.append(b)
                 T = T[b]
-        return int("".join(res), 2)
+        return int("".join(res), 2) ^x
 
 class Solution:
     def maxXor(self, nums: list[int], k: int) -> int:
@@ -70,7 +70,6 @@ class Solution:
                 seen.remove(nums[lo])
                 T.remove(pi.popleft())
                 lo+=1
-            m = T.closest_complement(pi[-1])
-            res = max(res,pi[-1]^m)
+            res = max(res,T.max_xor(pi[-1]))
             T.add(pi[-1])
         return res
