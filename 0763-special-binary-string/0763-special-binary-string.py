@@ -3,7 +3,7 @@ class Solution:
 
         def customcmp(A,B):
             if A +B == B+A: return 0
-            if A + B < B + A: return -1
+            if A + B > B + A: return -1
             else: return 1
 
         def dfs(i,j):
@@ -19,6 +19,6 @@ class Solution:
             if len(q)==1:
                 return "1" + dfs(i+1,j-1) + "0"
             else:
-                return "".join(sorted([dfs(i,j) for i, j in q], key= cmp_to_key(customcmp))[::-1])
+                return "".join(sorted([dfs(i,j) for i, j in q], key= cmp_to_key(customcmp)))
 
         return dfs(0,len(s)-1)
