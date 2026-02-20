@@ -12,10 +12,11 @@ class Solution:
             for k in range(i,j+1):
                 cur += 1 if s[k]=="1" else -1
                 if not cur:
-                    if not q:
-                        q.append((i,k))
-                    else:
+                    try:
                         q.append((q[-1][1]+1,k))
+                    except:
+                        q.append((i,k))
+                        
             if len(q)==1:
                 return "1" + dfs(i+1,j-1) + "0"
             else:
