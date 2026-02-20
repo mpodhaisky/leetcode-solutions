@@ -1,18 +1,24 @@
 class Solution:
     def makeLargestSpecial(self, s: str) -> str:
-        
-        def special(i,j):
-            cnt = 0
+
+        def customcmp(A,B):
+            if A +B == B+A: return 0
+            if A + B < B + A: return -1
+            else: return 1
+
+        def dfs(i,j):
+            q = []
+            cur = 0
             for k in range(i,j+1):
-                if cnt < 0: return False
-                cnt+= 1 if s[k]=="1" else -1
-            return not cnt
-        
-        for i in range(len(s)):
-            for j in range(i+1,len(s),2):
-                for k in range(j+2,len(s),2):
-                    if special(i,j) and special(j+1,k):
-                        A, B = s[i:j+1],s[j+1:k+1]
-                        if B+A  > A+B:
-                            return self.makeLargestSpecial(s[:i]+B+A+s[k+1:])
-        return s
+                cur += 1 if s[k]=="1" else -1
+                if not cur:
+                    if not q:
+                        q.append((i,k))
+                    else:
+                        q.append((q[-1][1]+1,k))
+            if len(q)==1:
+                return "1" + dfs(i+1,j-1) + "0"
+            else:
+                return "".join(sorted([dfs(i,j) for i, j in q], key= cmp_to_key(customcmp))[::-1])
+
+        return dfs(0,len(s)-1)
