@@ -12,7 +12,7 @@ class Solution:
             for j in range(i+1,len(s),2):
                 for k in range(j+2,len(s),2):
                     if special(i,j) and special(j+1,k):
-                        m = s[:i]+s[j+1:k+1]+s[i:j+1]+s[k+1:]
-                        if m > s:
-                            return self.makeLargestSpecial(m)
+                        A, B = s[i:j+1],s[j+1:k+1]
+                        if B+A  > A+B:
+                            return self.makeLargestSpecial(s[:i]+B+A+s[k+1:])
         return s
