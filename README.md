@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0691-stickers-to-spell-word](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0691-stickers-to-spell-word) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0757-pyramid-transition-matrix](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0757-pyramid-transition-matrix) |
+| [0763-special-binary-string](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0763-special-binary-string) |
 | [0981-delete-columns-to-make-sorted](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0981-delete-columns-to-make-sorted) |
 | [0992-delete-columns-to-make-sorted-ii](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0992-delete-columns-to-make-sorted-ii) |
 | [1000-delete-columns-to-make-sorted-iii](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1000-delete-columns-to-make-sorted-iii) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0018-4sum) |
+| [0763-special-binary-string](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0763-special-binary-string) |
 | [0843-binary-trees-with-factors](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0843-binary-trees-with-factors) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1306-minimum-absolute-difference](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1306-minimum-absolute-difference) |
@@ -480,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0763-special-binary-string](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0763-special-binary-string) |
 | [0954-maximum-sum-circular-subarray](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [3941-number-of-integers-with-popcount-depth-equal-to-k-ii](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3941-number-of-integers-with-popcount-depth-equal-to-k-ii) |
 ## Queue
