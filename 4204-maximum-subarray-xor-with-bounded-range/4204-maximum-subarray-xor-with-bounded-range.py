@@ -1,65 +1,47 @@
-class BinaryTrie:
+class TrieNode:
     def __init__(self):
-        self.trie = (T := lambda: defaultdict(T))()
-        self.trie["cnt"] = 0
+        self.children = {}
+        self.count = 0
 
-    def add(self, x: int) -> None:
-        bits = bin(x)[2:].zfill(32)
-        T = self.trie
-        T["cnt"] += 1
-        for b in bits:
-            T = T[b]
-            if "cnt" not in T:
-                T["cnt"] = 0
-            T["cnt"] += 1
-        T["#"] = T.get("#", 0) + 1
-
-    def remove(self, x: int) -> None:
-        bits = bin(x)[2:].zfill(32)
-        T = self.trie
-        path = [T]
-        for b in bits:
-            if b not in T or T[b].get("cnt", 0) == 0:
-                raise KeyError("value not present in trie")
-            T = T[b]
-            path.append(T)
-        if T.get("#", 0) <= 0:
-            raise KeyError("value not present in trie")
-
-        path[-1]["#"] -= 1
-        for node in path:
-            node["cnt"] -= 1
-        
-        T = self.trie
-        for b in bits:
-            child = T[b]
-            if child.get("cnt", 0) == 0:
-                del T[b]
-                break
-            T = child
-
-    def max_xor(self, x: int) -> int:
-        bits = bin(x)[2:].zfill(32)
-        T = self.trie
-        if T.get("cnt", 0) == 0:
-            raise ValueError("trie is empty")
-
-        res = []
-        for b in bits:
-            want = '1' if b == '0' else '0'
-            if want in T and T[want].get("cnt", 0) > 0:
-                res.append(want)
-                T = T[want]
+class Trie:
+    def __init__(self):
+        self.root = TrieNode()
+    
+    def add(self, num):
+        node = self.root
+        for i in range(31, -1, -1):
+            bit = (num >> i) & 1
+            if bit not in node.children:
+                node.children[bit] = TrieNode()
+            node = node.children[bit]
+            node.count += 1
+    
+    def remove(self, num):
+        node = self.root
+        for i in range(31, -1, -1):
+            bit = (num >> i) & 1
+            child = node.children[bit]
+            child.count -= 1
+            node = child
+    
+    def max_xor(self, num):
+        node = self.root
+        result = 0
+        for i in range(31, -1, -1):
+            bit = (num >> i) & 1
+            flip = 1 - bit
+            if flip in node.children and node.children[flip].count > 0:
+                result |= (1 << i)
+                node = node.children[flip]
             else:
-                res.append(b)
-                T = T[b]
-        return int("".join(res), 2) ^x
+                node = node.children[bit]
+        return result
 
 class Solution:
     def maxXor(self, nums: list[int], k: int) -> int:
-        T = BinaryTrie()
+        T = Trie()
         seen = SortedList()
-        res = lo=cur=0
+        res = lo = 0
         pi = deque([0])
         T.add(pi[-1])
         
