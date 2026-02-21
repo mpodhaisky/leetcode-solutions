@@ -1,8 +1,11 @@
 class BIT:
-    def __init__(self,N):
-        self.length=N+1
-        self.stree = [0]*(N+1)
-    
+    def __init__(self,arr):
+        self.length=len(arr)+1
+        self.stree = [0]*(len(arr)+1)
+        
+        for i, n in enumerate(arr):
+            self.increase(i,n)
+
     def increase(self,i,x):
         while i<self.length:
             self.stree[i]+=x
@@ -16,3 +19,10 @@ class BIT:
             i &= i+1
             i-=1
         return s
+    
+    def sum(self,a,b):
+        return self.total(b) - self.total(a-1)
+
+    def update(self,i,x):
+        self.increase(i,x-self.sum(i,i))
+ 
