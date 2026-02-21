@@ -8,8 +8,4 @@ def is_prime(n):
         
 class Solution:
     def countPrimeSetBits(self, left: int, right: int) -> int:
-        res=0
-        for n in range(left,right+1):
-            res+=is_prime(n.bit_count())
-        return res
-    
+        return sum(is_prime(n.bit_count()) for n in range(left,right+1))
