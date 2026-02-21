@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3356-shortest-uncommon-substring-in-an-array](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3356-shortest-uncommon-substring-in-an-array) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3819-count-covered-buildings](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3819-count-covered-buildings) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3356-shortest-uncommon-substring-in-an-array](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3356-shortest-uncommon-substring-in-an-array) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3934-coupon-code-validator](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3934-coupon-code-validator) |
 | [3999-minimum-operations-to-transform-string](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3999-minimum-operations-to-transform-string) |
 | [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/mpodhaisky/leetcode-solutions/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 | [3721-count-mentions-per-user](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3721-count-mentions-per-user) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/mpodhaisky/leetcode-solutions/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Simulation
 |  |
@@ -460,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [4061-minimum-swaps-to-avoid-forbidden-values](https://github.com/mpodhaisky/leetcode-solutions/tree/master/4061-minimum-swaps-to-avoid-forbidden-values) |
 ## Binary Tree
 |  |
