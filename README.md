@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2430-number-of-excellent-pairs](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2430-number-of-excellent-pairs) |
 | [2479-meeting-rooms-iii](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2479-meeting-rooms-iii) |
+| [2505-number-of-good-paths](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2505-number-of-good-paths) |
 | [3214-maximize-area-of-square-hole-in-grid](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3214-maximize-area-of-square-hole-in-grid) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3238-minimum-cost-to-convert-string-ii) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2430-number-of-excellent-pairs](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2430-number-of-excellent-pairs) |
 | [2479-meeting-rooms-iii](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2479-meeting-rooms-iii) |
+| [2505-number-of-good-paths](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2505-number-of-good-paths) |
 | [3250-maximum-square-area-by-removing-fences-from-a-field](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3250-maximum-square-area-by-removing-fences-from-a-field) |
 | [3260-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3260-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-two-best-non-overlapping-events](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2213-find-all-people-with-secret](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2213-find-all-people-with-secret) |
 | [2479-meeting-rooms-iii](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2479-meeting-rooms-iii) |
+| [2505-number-of-good-paths](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2505-number-of-good-paths) |
 | [3214-maximize-area-of-square-hole-in-grid](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3214-maximize-area-of-square-hole-in-grid) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -388,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1465-maximum-product-of-splitted-binary-tree) |
+| [2505-number-of-good-paths](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2505-number-of-good-paths) |
 | [3854-maximum-profit-from-trading-stocks-with-discounts](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3854-maximum-profit-from-trading-stocks-with-discounts) |
 ## Sliding Window
 |  |
@@ -544,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2206-detonate-the-maximum-bombs](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2206-detonate-the-maximum-bombs) |
+| [2505-number-of-good-paths](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2505-number-of-good-paths) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3238-minimum-cost-to-convert-string-ii) |
 | [3887-minimum-cost-path-with-edge-reversals](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3887-minimum-cost-path-with-edge-reversals) |
@@ -558,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0721-accounts-merge](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [1396-count-servers-that-communicate](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1396-count-servers-that-communicate) |
+| [2505-number-of-good-paths](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2505-number-of-good-paths) |
 ## Binary Indexed Tree
 |  |
 | ------- |
