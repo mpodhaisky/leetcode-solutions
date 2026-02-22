@@ -9,11 +9,14 @@ class Solution:
             five_k+=1
             k//=5
         
-        @cache
-        def dp(i,cnt):
-            if i >= fives: return cnt == five_k
-            return dp(i+1,cnt) + dp(i+1,cnt-1) + dp(i+1,cnt+1)
-        
+        dp = Counter({0:1})
+        for _ in range(fives):
+            next_dp = Counter()
+            for n in dp:
+                for dn in range(-1,2):
+                    next_dp[n+dn]+=dp[n]
+            dp = next_dp
+
         def g(a,b):
             G = gcd(a,b)
             return a//G, b//G
@@ -23,4 +26,4 @@ class Solution:
             if i >= len(nums): return num%den ==0 and num //den == k
             return dfs(i+1,num,den) + dfs(i+1,*g(num * nums[i], den)) + dfs(i+1,*g(num, den*nums[i]))
 
-        return dfs(0,1,1) * pow(3,ones) * dp(0,0)
+        return dfs(0,1,1) * pow(3,ones) * dp[five_k]
