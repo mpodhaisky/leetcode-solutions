@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1284-four-divisors](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1284-four-divisors) |
+| [1305-number-of-visible-people-in-a-queue](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1306-minimum-absolute-difference](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1306-minimum-absolute-difference) |
 | [1311-largest-magic-square](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1311-largest-magic-square) |
 | [1331-path-with-maximum-gold](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1331-path-with-maximum-gold) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0321-create-maximum-number](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0321-create-maximum-number) |
 | [0394-decode-string](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0394-decode-string) |
+| [1305-number-of-visible-people-in-a-queue](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Greedy
 |  |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0321-create-maximum-number](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0321-create-maximum-number) |
+| [1305-number-of-visible-people-in-a-queue](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1305-number-of-visible-people-in-a-queue) |
 ## String Matching
 |  |
 | ------- |
