@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0336-palindrome-pairs](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0336-palindrome-pairs) |
 | [0416-partition-equal-subset-sum](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0494-target-sum](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0494-target-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0691-stickers-to-spell-word](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0691-stickers-to-spell-word) |
 | [0721-accounts-merge](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0721-accounts-merge) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0233-number-of-digit-one](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0233-number-of-digit-one) |
 | [0312-burst-balloons](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0312-burst-balloons) |
 | [0416-partition-equal-subset-sum](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0494-target-sum) |
 | [0514-freedom-trail](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0514-freedom-trail) |
 | [0691-stickers-to-spell-word](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0691-stickers-to-spell-word) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0089-gray-code](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0089-gray-code) |
 | [0301-remove-invalid-parentheses](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
+| [0494-target-sum](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0494-target-sum) |
 | [0691-stickers-to-spell-word](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0691-stickers-to-spell-word) |
 | [0757-pyramid-transition-matrix](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0757-pyramid-transition-matrix) |
 | [1331-path-with-maximum-gold](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1331-path-with-maximum-gold) |
