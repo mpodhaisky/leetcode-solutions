@@ -2,8 +2,9 @@ class Solution:
     def waysToSplit(self, nums: List[int]) -> int:
         MOD = pow(10,9)+7
         PI = [0] + list(accumulate(nums))
-        res = 0
+        res=0
         for i in range(len(nums)):
+
             # min where mid >= left
             j = bisect_left(range(i+1,len(nums)-1), True, key=lambda x: 2*PI[i+1] <= PI[x+1])+i+1
             
