@@ -336,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 | [3721-count-mentions-per-user](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3721-count-mentions-per-user) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [4048-minimum-time-to-complete-all-deliveries](https://github.com/mpodhaisky/leetcode-solutions/tree/master/4048-minimum-time-to-complete-all-deliveries) |
 | [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/mpodhaisky/leetcode-solutions/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Simulation
 |  |
@@ -439,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3763-separate-squares-i](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3763-separate-squares-i) |
 | [3775-separate-squares-ii](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3775-separate-squares-ii) |
+| [4048-minimum-time-to-complete-all-deliveries](https://github.com/mpodhaisky/leetcode-solutions/tree/master/4048-minimum-time-to-complete-all-deliveries) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
