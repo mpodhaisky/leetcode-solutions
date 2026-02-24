@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0981-delete-columns-to-make-sorted](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0981-delete-columns-to-make-sorted) |
 | [0992-delete-columns-to-make-sorted-ii](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0992-delete-columns-to-make-sorted-ii) |
 | [1000-delete-columns-to-make-sorted-iii](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1000-delete-columns-to-make-sorted-iii) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1508-longest-happy-prefix](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1508-longest-happy-prefix) |
 | [1533-display-table-of-food-orders-in-a-restaurant](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1533-display-table-of-food-orders-in-a-restaurant) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0321-create-maximum-number](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0321-create-maximum-number) |
 | [0394-decode-string](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0394-decode-string) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Greedy
