@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3934-coupon-code-validator](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3934-coupon-code-validator) |
 | [3999-minimum-operations-to-transform-string](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3999-minimum-operations-to-transform-string) |
 | [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/mpodhaisky/leetcode-solutions/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [4221-longest-almost-palindromic-substring](https://github.com/mpodhaisky/leetcode-solutions/tree/master/4221-longest-almost-palindromic-substring) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3892-best-time-to-buy-and-sell-stock-v](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
 | [3956-trionic-array-ii](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3956-trionic-array-ii) |
 | [3986-maximum-path-score-in-a-grid](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3986-maximum-path-score-in-a-grid) |
+| [4221-longest-almost-palindromic-substring](https://github.com/mpodhaisky/leetcode-solutions/tree/master/4221-longest-almost-palindromic-substring) |
 ## Backtracking
 |  |
 | ------- |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1831-ways-to-split-array-into-three-subarrays](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1831-ways-to-split-array-into-three-subarrays) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
+| [4221-longest-almost-palindromic-substring](https://github.com/mpodhaisky/leetcode-solutions/tree/master/4221-longest-almost-palindromic-substring) |
 ## Stack
 |  |
 | ------- |
