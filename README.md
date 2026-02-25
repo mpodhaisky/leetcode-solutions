@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1395-minimum-time-visiting-all-points](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1395-minimum-time-visiting-all-points) |
 | [1396-count-servers-that-communicate](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1396-count-servers-that-communicate) |
 | [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1533-display-table-of-food-orders-in-a-restaurant](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1533-display-table-of-food-orders-in-a-restaurant) |
 | [1569-max-dot-product-of-two-subsequences](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1569-max-dot-product-of-two-subsequences) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0757-pyramid-transition-matrix](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0757-pyramid-transition-matrix) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0795-k-th-symbol-in-grammar](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0795-k-th-symbol-in-grammar) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [2430-number-of-excellent-pairs](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2430-number-of-excellent-pairs) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 | [3605-construct-the-minimum-bitwise-array-i](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3605-construct-the-minimum-bitwise-array-i) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0843-binary-trees-with-factors](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0843-binary-trees-with-factors) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1306-minimum-absolute-difference](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1306-minimum-absolute-difference) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1533-display-table-of-food-orders-in-a-restaurant](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1533-display-table-of-food-orders-in-a-restaurant) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -477,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1396-count-servers-that-communicate) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
