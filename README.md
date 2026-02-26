@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1508-longest-happy-prefix](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1508-longest-happy-prefix) |
+| [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1533-display-table-of-food-orders-in-a-restaurant](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1533-display-table-of-food-orders-in-a-restaurant) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0795-k-th-symbol-in-grammar](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0795-k-th-symbol-in-grammar) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2430-number-of-excellent-pairs](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2430-number-of-excellent-pairs) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 | [3605-construct-the-minimum-bitwise-array-i](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3605-construct-the-minimum-bitwise-array-i) |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2058-concatenation-of-array](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2058-concatenation-of-array) |
 | [2479-meeting-rooms-iii](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2479-meeting-rooms-iii) |
 | [3721-count-mentions-per-user](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3721-count-mentions-per-user) |
