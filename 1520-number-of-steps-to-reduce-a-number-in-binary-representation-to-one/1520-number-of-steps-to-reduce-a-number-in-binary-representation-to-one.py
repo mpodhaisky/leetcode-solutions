@@ -1,9 +1,6 @@
 class Solution:
     def numSteps(self, s: str) -> int:
-        n = int(s,2)
-        step=0
-        while n > 1:
-            if n&1: n+=1
-            else: n>>=1
-            step+=1
-        return step
+        if s.count("1") == 1:
+            return len(s)-1
+        else:
+            return 1 + len(s) + s.count("0") - len(list(takewhile(lambda x: x=="0", s[::-1])))
