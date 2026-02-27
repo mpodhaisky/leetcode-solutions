@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3356-shortest-uncommon-substring-in-an-array](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3356-shortest-uncommon-substring-in-an-array) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3934-coupon-code-validator](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3934-coupon-code-validator) |
+| [3983-minimum-operations-to-equalize-binary-string](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3983-minimum-operations-to-equalize-binary-string) |
 | [3999-minimum-operations-to-transform-string](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3999-minimum-operations-to-transform-string) |
 | [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/mpodhaisky/leetcode-solutions/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [4221-longest-almost-palindromic-substring](https://github.com/mpodhaisky/leetcode-solutions/tree/master/4221-longest-almost-palindromic-substring) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1396-count-servers-that-communicate) |
 | [2206-detonate-the-maximum-bombs](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2206-detonate-the-maximum-bombs) |
 | [2213-find-all-people-with-secret](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2213-find-all-people-with-secret) |
+| [3983-minimum-operations-to-equalize-binary-string](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3983-minimum-operations-to-equalize-binary-string) |
 ## Sorting
 |  |
 | ------- |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 | [3721-count-mentions-per-user](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3721-count-mentions-per-user) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3983-minimum-operations-to-equalize-binary-string](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3983-minimum-operations-to-equalize-binary-string) |
 | [4048-minimum-time-to-complete-all-deliveries](https://github.com/mpodhaisky/leetcode-solutions/tree/master/4048-minimum-time-to-complete-all-deliveries) |
 | [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/mpodhaisky/leetcode-solutions/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Simulation
@@ -522,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1533-display-table-of-food-orders-in-a-restaurant](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1533-display-table-of-food-orders-in-a-restaurant) |
 | [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
+| [3983-minimum-operations-to-equalize-binary-string](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3983-minimum-operations-to-equalize-binary-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -582,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [1396-count-servers-that-communicate](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1396-count-servers-that-communicate) |
 | [2505-number-of-good-paths](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2505-number-of-good-paths) |
+| [3983-minimum-operations-to-equalize-binary-string](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3983-minimum-operations-to-equalize-binary-string) |
 ## Binary Indexed Tree
 |  |
 | ------- |
