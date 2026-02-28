@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0795-k-th-symbol-in-grammar](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0795-k-th-symbol-in-grammar) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1800-concatenation-of-consecutive-binary-numbers](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [2430-number-of-excellent-pairs](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2430-number-of-excellent-pairs) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 | [3605-construct-the-minimum-bitwise-array-i](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3605-construct-the-minimum-bitwise-array-i) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [1284-four-divisors](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1284-four-divisors) |
 | [1395-minimum-time-visiting-all-points](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1395-minimum-time-visiting-all-points) |
+| [1800-concatenation-of-consecutive-binary-numbers](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1996-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1996-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1800-concatenation-of-consecutive-binary-numbers](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [2058-concatenation-of-array](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2058-concatenation-of-array) |
 | [2479-meeting-rooms-iii](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2479-meeting-rooms-iii) |
 | [3721-count-mentions-per-user](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3721-count-mentions-per-user) |
