@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1533-display-table-of-food-orders-in-a-restaurant](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1533-display-table-of-food-orders-in-a-restaurant) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2576-minimum-penalty-for-a-shop) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0321-create-maximum-number](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0321-create-maximum-number) |
 | [0330-patching-array](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0330-patching-array) |
 | [0992-delete-columns-to-make-sorted-ii](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0992-delete-columns-to-make-sorted-ii) |
+| [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2089-maximum-matrix-sum](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2089-maximum-matrix-sum) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
