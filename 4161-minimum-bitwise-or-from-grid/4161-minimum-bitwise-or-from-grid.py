@@ -1,18 +1,22 @@
 class Solution:
-    def minimumOR(self, grid: List[List[int]]) -> int:
-
-        def can_do(row,i):
-            for n in row:
-                if not (n&(1<<i)):
-                    return True
-            return False
-        
-        res = 0
-        for i in range(17,-1,-1):
-            if all(can_do(row,i) for row in grid):
-                for j , row in enumerate(grid):
-                    grid[j]=[n for n in row if not (n&(1<<i))]
+    def minimumOR(self, a: list[list[int]]) -> int:
+        l, r = 0, (1 << 17) - 1
+        while l <= r:
+            m = l + (r - l) // 2
+            ck = True
+            for rw in a:
+                ok = False
+                for val in rw:
+                    # Check if val is a submask of m
+                    if (val | m) == m:
+                        ok = True
+                        break
+                if not ok:
+                    ck = False
+                    break
+            
+            if not ck:
+                l = m + 1
             else:
-                res|=1<<i
-        
-        return res
+                r = m - 1
+        return l
