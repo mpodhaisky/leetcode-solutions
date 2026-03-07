@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1533-display-table-of-food-orders-in-a-restaurant](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1533-display-table-of-food-orders-in-a-restaurant) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2576-minimum-penalty-for-a-shop) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1569-max-dot-product-of-two-subsequences](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1569-max-dot-product-of-two-subsequences) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1996-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1996-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
+| [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 | [2164-two-best-non-overlapping-events](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3260-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3260-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
