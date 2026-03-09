@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3238-minimum-cost-to-convert-string-ii) |
 | [3404-minimum-number-of-operations-to-satisfy-conditions](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3404-minimum-number-of-operations-to-satisfy-conditions) |
+| [3406-find-all-possible-stable-binary-arrays-i](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3406-find-all-possible-stable-binary-arrays-i) |
 | [3854-maximum-profit-from-trading-stocks-with-discounts](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3854-maximum-profit-from-trading-stocks-with-discounts) |
 | [3889-minimum-cost-path-with-teleportations](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3889-minimum-cost-path-with-teleportations) |
 | [3892-best-time-to-buy-and-sell-stock-v](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
@@ -444,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1833-find-the-highest-altitude) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/mpodhaisky/leetcode-solutions/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/mpodhaisky/leetcode-solutions/tree/master/2576-minimum-penalty-for-a-shop) |
+| [3406-find-all-possible-stable-binary-arrays-i](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3406-find-all-possible-stable-binary-arrays-i) |
 | [3980-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3980-best-time-to-buy-and-sell-stock-using-strategy) |
 | [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/mpodhaisky/leetcode-solutions/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Graph
