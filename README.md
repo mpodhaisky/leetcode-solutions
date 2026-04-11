@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0066-plus-one) |
 | [0085-maximal-rectangle](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0137-single-number-ii](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0137-single-number-ii) |
+| [0179-largest-number](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0219-contains-duplicate-ii](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0312-burst-balloons](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0312-burst-balloons) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0179-largest-number](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0214-shortest-palindrome) |
 | [0301-remove-invalid-parentheses](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0336-palindrome-pairs](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0336-palindrome-pairs) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0018-4sum) |
+| [0179-largest-number](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0179-largest-number) |
 | [0721-accounts-merge](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0763-special-binary-string](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0763-special-binary-string) |
 | [0843-binary-trees-with-factors](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0843-binary-trees-with-factors) |
@@ -306,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0179-largest-number) |
 | [0321-create-maximum-number](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0321-create-maximum-number) |
 | [0330-patching-array](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0330-patching-array) |
 | [0992-delete-columns-to-make-sorted-ii](https://github.com/mpodhaisky/leetcode-solutions/tree/master/0992-delete-columns-to-make-sorted-ii) |
