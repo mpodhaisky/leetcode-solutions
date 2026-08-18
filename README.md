@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 | [3605-construct-the-minimum-bitwise-array-i](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3605-construct-the-minimum-bitwise-array-i) |
 | [3611-construct-the-minimum-bitwise-array-ii](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3611-construct-the-minimum-bitwise-array-ii) |
+| [3705-find-the-largest-almost-missing-integer](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3721-count-mentions-per-user](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3721-count-mentions-per-user) |
 | [3763-separate-squares-i](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3763-separate-squares-i) |
 | [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3356-shortest-uncommon-substring-in-an-array](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3356-shortest-uncommon-substring-in-an-array) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
+| [3705-find-the-largest-almost-missing-integer](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/mpodhaisky/leetcode-solutions/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
