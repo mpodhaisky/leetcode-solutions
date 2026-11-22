@@ -1,32 +1,35 @@
+from itertools import accumulate
+
+
 class SparseTable:
-    def __init__(self, arr, op, neutral):
+    """Disjoint sparse table: O(n log n) build, O(1) query for any associative op."""
+
+    def __init__(self, arr, op, neutral=None, commutative=False):
         self.op = op
         self.neutral = neutral
+        arr = list(arr)
         n = len(arr)
-        target_len = 1 << (n - 1).bit_length()
-        padded = list(arr)
-        padded.extend([neutral] * (target_len - n))
-        self.st = [padded]
-        k = target_len.bit_length()
+        # left halves are folded right-to-left; only needs swapped args if op isn't commutative
+        rev_op = op if commutative else (lambda acc, x: op(x, acc))
+        self.st = [arr]
 
-        for i in range(1, k):
-            cur = padded.copy()
+        for i in range(1, max(1, (n - 1).bit_length()) + 1):
             size = 1 << i
             half = size >> 1
+            row = []
 
-            for start in range(0, target_len, size):
+            for start in range(0, n, size):
                 mid = start + half
+                if mid >= n:  # no right half -> never queried at this level
+                    row += arr[start:]
+                    break
                 end = start + size
+                left = list(accumulate(arr[mid - 1 : start - 1 if start else None : -1], rev_op))
+                left.reverse()
+                row += left
+                row += accumulate(arr[mid:end], op)
 
-                cur[mid - 1] = padded[mid - 1]
-                for j in range(mid - 2, start - 1, -1):
-                    cur[j] = op(padded[j], cur[j + 1])
-
-                cur[mid] = padded[mid]
-                for j in range(mid + 1, end):
-                    cur[j] = op(cur[j - 1], padded[j])
-
-            self.st.append(cur)
+            self.st.append(row)
 
     def query(self, a, b):
         if b < a:
@@ -34,5 +37,5 @@ class SparseTable:
         if a == b:
             return self.st[0][a]
 
-        cur = (a ^ b).bit_length()
-        return self.op(self.st[cur][a], self.st[cur][b])
+        row = self.st[(a ^ b).bit_length()]
+        return self.op(row[a], row[b])
